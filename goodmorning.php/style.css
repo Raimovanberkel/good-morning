@@ -1,0 +1,11 @@
+body.morning{background-image: url(morning.png);
+}
+
+body.evening{background-image: url(evening.png);
+}
+
+body.afternoon{background-image: url(afternoon.png);
+}
+
+body.night{background-image: url(night.png);
+}
